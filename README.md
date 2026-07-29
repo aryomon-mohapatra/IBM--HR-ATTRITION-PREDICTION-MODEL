@@ -427,14 +427,6 @@ The jump from AUC 0.696 → 0.939 came primarily from 8 engineered features that
 
 ---
 
-## 👨‍💻 Author
-
-**Saurav**
-
-- 🌐 Live App: [Streamlit Dashboard](https://ibm--hr-attrition-prediction-model-yuqlpna8og4tw2rtw8o3dz.streamlit.app)
-- 💻 Repository: [GitHub](https://github.com/Gaurav711cgu/IBM--HR-ATTRITION-PREDICTION-MODEL)
-- 📊 Dataset: [IBM HR Analytics — Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
-
 ---
 
 ## 📄 License
